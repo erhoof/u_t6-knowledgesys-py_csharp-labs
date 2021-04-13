@@ -1,6 +1,9 @@
 # u_t6-knowledgesys-py_charp_labs
 Labs from Presentation of Knowledge in IT discipline
 
+## lab1
+<img src="https://github.com/erhoof/u_t6-knowledgesys-py_csharp-labs/blob/main/example/lab1.jpg?raw=true" width="200px">
+
 ## lab2
 ```
 В(8)А(5)Г(6)О(7)Н(9) +
