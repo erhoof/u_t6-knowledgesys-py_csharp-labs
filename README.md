@@ -1,4 +1,4 @@
-# u_t6-knowledgesys-py_labs
+# u_t6-knowledgesys-py_charp_labs
 Labs from Presentation of Knowledge in IT discipline
 
 ## lab2
