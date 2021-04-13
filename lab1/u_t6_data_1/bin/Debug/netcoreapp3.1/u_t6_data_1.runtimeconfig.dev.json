@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\erhoo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\erhoo\\.nuget\\packages"
+    ]
+  }
+}

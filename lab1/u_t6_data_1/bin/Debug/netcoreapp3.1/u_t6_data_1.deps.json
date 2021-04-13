@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "u_t6_data_1/1.0.0": {
+        "runtime": {
+          "u_t6_data_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "u_t6_data_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
